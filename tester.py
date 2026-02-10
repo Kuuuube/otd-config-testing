@@ -25,6 +25,7 @@ for config_filename in config_filenames:
             "strings": strings,
             "variant": filename_no_ext,
             "filepath": test_case_path,
+            "match_success": False,
         })
 
 for tablet_info in tablet_infos:
@@ -46,10 +47,14 @@ for tablet_info in tablet_infos:
                         continue
                     
                     print("Config match hit: " + tablet_info["filepath"])
+                    tablet_info["match_success"] = True
                     assert(config_tablet_name == expected_match)
-                    print("Assert passed")
+                    print("Correct config matched")
 
                     found_identifier_match = True
 
             if found_identifier_match:
                 break
+
+    if not tablet_info["match_success"]:
+        print("Config match fail: " + tablet_info["filepath"])
