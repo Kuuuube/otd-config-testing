@@ -46,7 +46,7 @@ for tablet_info in tablet_infos:
                     if not string_match_success:
                         continue
                     
-                    print("Config match hit: " + tablet_info["filepath"])
+                    print("Config match hit: " + tablet_info["filepath"] + ", Detected as: " + config_tablet_name)
                     tablet_info["match_success"] = True
                     assert(config_tablet_name == expected_match)
                     print("Correct config matched")
