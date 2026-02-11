@@ -25,7 +25,7 @@ for config_filename in config_filenames:
             "strings": strings,
             "variant": filename_no_ext,
             "filepath": test_case_path,
-            "match_success": False,
+            "matches": [],
         })
 
 for tablet_info in tablet_infos:
@@ -47,8 +47,8 @@ for tablet_info in tablet_infos:
                         continue
                     
                     print("Config match hit: " + tablet_info["filepath"] + ", Detected as: " + config_tablet_name)
-                    tablet_info["match_success"] = True
-                    assert(config_tablet_name == expected_match)
+                    tablet_info["matches"].append(config_tablet_name)
+                    assert config_tablet_name == expected_match, "Matched: `" + config_tablet_name + "`, Expected: `" + expected_match + "`"
                     print("Correct config matched")
 
                     found_identifier_match = True
@@ -56,5 +56,4 @@ for tablet_info in tablet_infos:
             if found_identifier_match:
                 break
 
-    if not tablet_info["match_success"]:
-        print("Config match fail: " + tablet_info["filepath"])
+    assert len(tablet_info["matches"]) == 1, "Must only match one config, Matches: `" + str(tablet_info["matches"]) + "`"
