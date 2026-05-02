@@ -39,7 +39,7 @@ for tablet_info in tablet_infos:
 
                     string_match_success = True
                     for i, string_regex in config_identifier["DeviceStrings"].items():
-                        if not re.match(string_regex, tablet_info["strings"][int(i) - 1]):
+                        if not re.search(string_regex, tablet_info["strings"][int(i) - 1]):
                             string_match_success = False
                             break
 
