@@ -1,0 +1,255 @@
+Index 1: UGTABLET
+Index 2: 10 inch PenTablet
+Index 3: 000000
+Index 4: UG902_BPG1002
+Index 5: 2023-08-02_realse001
+Index 6: { OTD: Operation failed }
+Index 7: { OTD: Operation failed }
+Index 8: { OTD: Operation failed }
+Index 9: { OTD: Operation failed }
+Index 10: { OTD: Operation failed }
+Index 11: { OTD: Operation failed }
+Index 12: { OTD: Operation failed }
+Index 13: { OTD: Operation failed }
+Index 14: { OTD: Operation failed }
+Index 15: { OTD: Operation failed }
+Index 16: { OTD: Operation failed }
+Index 17: { OTD: Operation failed }
+Index 18: { OTD: Operation failed }
+Index 19: { OTD: Operation failed }
+Index 20: Default mode
+Index 21: X_Energy mode
+Index 22: Y_Energy mode
+Index 23: P_Energy mode
+Index 24: Ferq mode
+Index 25: Jitter_Energy mode
+Index 26: Jitter mode
+Index 27: Smooth mode
+Index 28: X_Tilt mode
+Index 29: Y_Tilt mode
+Index 30: { OTD: Operation failed }
+Index 31: { OTD: Operation failed }
+Index 32: { OTD: Operation failed }
+Index 33: { OTD: Operation failed }
+Index 34: { OTD: Operation failed }
+Index 35: { OTD: Operation failed }
+Index 36: { OTD: Operation failed }
+Index 37: { OTD: Operation failed }
+Index 38: { OTD: Operation failed }
+Index 39: { OTD: Operation failed }
+Index 40: { OTD: Operation failed }
+Index 41: { OTD: Operation failed }
+Index 42: { OTD: Operation failed }
+Index 43: { OTD: Operation failed }
+Index 44: { OTD: Operation failed }
+Index 45: { OTD: Operation failed }
+Index 46: { OTD: Operation failed }
+Index 47: { OTD: Operation failed }
+Index 48: { OTD: Operation failed }
+Index 49: { OTD: Operation failed }
+Index 50: { OTD: Operation failed }
+Index 51: { OTD: Operation failed }
+Index 52: { OTD: Operation failed }
+Index 53: { OTD: Operation failed }
+Index 54: { OTD: Operation failed }
+Index 55: { OTD: Operation failed }
+Index 56: { OTD: Operation failed }
+Index 57: { OTD: Operation failed }
+Index 58: { OTD: Operation failed }
+Index 59: { OTD: Operation failed }
+Index 60: { OTD: Operation failed }
+Index 61: { OTD: Operation failed }
+Index 62: { OTD: Operation failed }
+Index 63: { OTD: Operation failed }
+Index 64: { OTD: Operation failed }
+Index 65: { OTD: Operation failed }
+Index 66: { OTD: Operation failed }
+Index 67: { OTD: Operation failed }
+Index 68: { OTD: Operation failed }
+Index 69: { OTD: Operation failed }
+Index 70: { OTD: Operation failed }
+Index 71: { OTD: Operation failed }
+Index 72: { OTD: Operation failed }
+Index 73: { OTD: Operation failed }
+Index 74: { OTD: Operation failed }
+Index 75: { OTD: Operation failed }
+Index 76: { OTD: Operation failed }
+Index 77: { OTD: Operation failed }
+Index 78: { OTD: Operation failed }
+Index 79: { OTD: Operation failed }
+Index 80: { OTD: Operation failed }
+Index 81: { OTD: Operation failed }
+Index 82: { OTD: Operation failed }
+Index 83: { OTD: Operation failed }
+Index 84: { OTD: Operation failed }
+Index 85: { OTD: Operation failed }
+Index 86: { OTD: Operation failed }
+Index 87: { OTD: Operation failed }
+Index 88: { OTD: Operation failed }
+Index 89: { OTD: Operation failed }
+Index 90: { OTD: Operation failed }
+Index 91: { OTD: Operation failed }
+Index 92: { OTD: Operation failed }
+Index 93: { OTD: Operation failed }
+Index 94: { OTD: Operation failed }
+Index 95: { OTD: Operation failed }
+Index 96: { OTD: Operation failed }
+Index 97: { OTD: Operation failed }
+Index 98:                
+Index 99: { OTD: Operation failed }
+Index 100: 왰簆῿Ꮨ
+Index 101: 最
+Index 102: UGEE Technology Corp.
+Index 103: { OTD: Operation failed }
+Index 104: Ă
+Index 105: { OTD: Operation failed }
+Index 106: { OTD: Operation failed }
+Index 107: { OTD: Operation failed }
+Index 108: { OTD: Operation failed }
+Index 109: d
+Index 110: ကᄀ
+Index 111: ÿ
+Index 112: { OTD: Operation failed }
+Index 113: { OTD: Operation failed }
+Index 114: { OTD: Operation failed }
+Index 115: { OTD: Operation failed }
+Index 116: { OTD: Operation failed }
+Index 117: { OTD: Operation failed }
+Index 118: { OTD: Operation failed }
+Index 119: { OTD: Operation failed }
+Index 120: { OTD: Operation failed }
+Index 121: †††††††
+Index 122: 
+Index 123: HK On
+Index 124: HK Off
+Index 125: { OTD: Operation failed }
+Index 126: { OTD: Operation failed }
+Index 127: { OTD: Operation failed }
+Index 128: { OTD: Operation failed }
+Index 129: { OTD: Operation failed }
+Index 130: { OTD: Operation failed }
+Index 131: ЁЀ
+Index 132: { OTD: Operation failed }
+Index 133: { OTD: Operation failed }
+Index 134: { OTD: Operation failed }
+Index 135: { OTD: Operation failed }
+Index 136: { OTD: Operation failed }
+Index 137: { OTD: Operation failed }
+Index 138: { OTD: Operation failed }
+Index 139: { OTD: Operation failed }
+Index 140: { OTD: Operation failed }
+Index 141: { OTD: Operation failed }
+Index 142: { OTD: Operation failed }
+Index 143: { OTD: Operation failed }
+Index 144: { OTD: Operation failed }
+Index 145: { OTD: Operation failed }
+Index 146: { OTD: Operation failed }
+Index 147: { OTD: Operation failed }
+Index 148: { OTD: Operation failed }
+Index 149: { OTD: Operation failed }
+Index 150: { OTD: Operation failed }
+Index 151: { OTD: Operation failed }
+Index 152: { OTD: Operation failed }
+Index 153: { OTD: Operation failed }
+Index 154: { OTD: Operation failed }
+Index 155: { OTD: Operation failed }
+Index 156: { OTD: Operation failed }
+Index 157: { OTD: Operation failed }
+Index 158: { OTD: Operation failed }
+Index 159: { OTD: Operation failed }
+Index 160: { OTD: Operation failed }
+Index 161: { OTD: Operation failed }
+Index 162: { OTD: Operation failed }
+Index 163: { OTD: Operation failed }
+Index 164: { OTD: Operation failed }
+Index 165: { OTD: Operation failed }
+Index 166: { OTD: Operation failed }
+Index 167: { OTD: Operation failed }
+Index 168: 20180104
+Index 169: { OTD: Operation failed }
+Index 170: { OTD: Operation failed }
+Index 171: { OTD: Operation failed }
+Index 172: { OTD: Operation failed }
+Index 173: { OTD: Operation failed }
+Index 174: { OTD: Operation failed }
+Index 175: { OTD: Operation failed }
+Index 176: { OTD: Operation failed }
+Index 177: { OTD: Operation failed }
+Index 178: { OTD: Operation failed }
+Index 179: { OTD: Operation failed }
+Index 180: { OTD: Operation failed }
+Index 181: { OTD: Operation failed }
+Index 182: { OTD: Operation failed }
+Index 183: { OTD: Operation failed }
+Index 184: { OTD: Operation failed }
+Index 185: { OTD: Operation failed }
+Index 186: { OTD: Operation failed }
+Index 187: { OTD: Operation failed }
+Index 188: { OTD: Operation failed }
+Index 189: { OTD: Operation failed }
+Index 190: { OTD: Operation failed }
+Index 191: { OTD: Operation failed }
+Index 192: { OTD: Operation failed }
+Index 193: { OTD: Operation failed }
+Index 194: { OTD: Operation failed }
+Index 195: { OTD: Operation failed }
+Index 196: { OTD: Operation failed }
+Index 197: { OTD: Operation failed }
+Index 198: { OTD: Operation failed }
+Index 199: { OTD: Operation failed }
+Index 200: { OTD: Operation failed }
+Index 201: { OTD: Operation failed }
+Index 202: { OTD: Operation failed }
+Index 203: { OTD: Operation failed }
+Index 204: { OTD: Operation failed }
+Index 205: { OTD: Operation failed }
+Index 206: { OTD: Operation failed }
+Index 207: { OTD: Operation failed }
+Index 208: { OTD: Operation failed }
+Index 209: { OTD: Operation failed }
+Index 210: { OTD: Operation failed }
+Index 211: { OTD: Operation failed }
+Index 212: { OTD: Operation failed }
+Index 213: { OTD: Operation failed }
+Index 214: { OTD: Operation failed }
+Index 215: { OTD: Operation failed }
+Index 216: { OTD: Operation failed }
+Index 217: { OTD: Operation failed }
+Index 218: { OTD: Operation failed }
+Index 219: { OTD: Operation failed }
+Index 220: { OTD: Operation failed }
+Index 221: { OTD: Operation failed }
+Index 222: { OTD: Operation failed }
+Index 223: { OTD: Operation failed }
+Index 224: { OTD: Operation failed }
+Index 225: { OTD: Operation failed }
+Index 226: { OTD: Operation failed }
+Index 227: { OTD: Operation failed }
+Index 228: { OTD: Operation failed }
+Index 229: { OTD: Operation failed }
+Index 230: { OTD: Operation failed }
+Index 231: { OTD: Operation failed }
+Index 232: { OTD: Operation failed }
+Index 233: { OTD: Operation failed }
+Index 234: { OTD: Operation failed }
+Index 235: { OTD: Operation failed }
+Index 236: { OTD: Operation failed }
+Index 237: { OTD: Operation failed }
+Index 238: { OTD: Operation failed }
+Index 239: { OTD: Operation failed }
+Index 240: { OTD: Operation failed }
+Index 241: { OTD: Operation failed }
+Index 242: { OTD: Operation failed }
+Index 243: { OTD: Operation failed }
+Index 244: { OTD: Operation failed }
+Index 245: { OTD: Operation failed }
+Index 246: { OTD: Operation failed }
+Index 247: { OTD: Operation failed }
+Index 248: { OTD: Operation failed }
+Index 249: { OTD: Operation failed }
+Index 250: { OTD: Operation failed }
+Index 251: { OTD: Operation failed }
+Index 252: { OTD: Operation failed }
+Index 253: { OTD: Operation failed }
+Index 254: { OTD: Operation failed }
+Index 255: { OTD: Operation failed }
